@@ -1,2 +1,2 @@
-# parthibdhal.github.io
+https://parthibdhal.github.io/
 this is the readme file
